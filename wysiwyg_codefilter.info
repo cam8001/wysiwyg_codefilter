@@ -1,0 +1,5 @@
+name = WYSIWYG Code Filter
+description = Custom settings for WYSIWYG editors for compatibility with Code Filter.
+package = User Interface
+core = 7.x
+dependencies[] = wysiwyg
